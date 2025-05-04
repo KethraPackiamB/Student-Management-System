@@ -1,0 +1,122 @@
+task2.js:92 Student Details:
+task2.js:95 studentID : 1
+task2.js:95 name : Kethra
+task2.js:95 grade : 9
+task2.js:95 courses : Engineering Graphics,Control Systems,Signal Processing
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 2
+task2.js:95 name : Packiam
+task2.js:95 grade : 8
+task2.js:95 courses : circuit Analysis,communication systems,enginnering physics
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 3
+task2.js:95 name : Gabriel
+task2.js:95 grade : 9
+task2.js:95 courses : Disel Mechanical,Basic designer,Virtual verifier
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 4
+task2.js:95 name : Henry
+task2.js:95 grade : 7
+task2.js:95 courses : Physiscs,Mathematics,Geography
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 5
+task2.js:95 name : Raja
+task2.js:95 grade : 8
+task2.js:95 courses : Electronics,electromagnetic fields
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:111 -----Filter Students by grade-------
+task2.js:92 Student Details:
+task2.js:95 studentID : 2
+task2.js:95 name : Packiam
+task2.js:95 grade : 8
+task2.js:95 courses : circuit Analysis,communication systems,enginnering physics
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 5
+task2.js:95 name : Raja
+task2.js:95 grade : 8
+task2.js:95 courses : Electronics,electromagnetic fields
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:122 -----find students by ID-----------
+task2.js:124 Object
+task2.js:160 ------Adding Course to student--------
+task2.js:151 Course "Java Programming" is added to the studentID "1"
+task2.js:92 Student Details:
+task2.js:95 studentID : 1
+task2.js:95 name : Kethra
+task2.js:95 grade : 9
+task2.js:95 courses : Engineering Graphics,Control Systems,Signal Processing,Java Programming
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:176 ----Remove a Student------
+task2.js:170 Student with ID "4" is removed
+task2.js:172 Student with ID "7" is not found
+task2.js:179 ---After Removal of student-----
+task2.js:92 Student Details:
+task2.js:95 studentID : 1
+task2.js:95 name : Kethra
+task2.js:95 grade : 9
+task2.js:95 courses : Engineering Graphics,Control Systems,Signal Processing,Java Programming
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 2
+task2.js:95 name : Packiam
+task2.js:95 grade : 8
+task2.js:95 courses : circuit Analysis,communication systems,enginnering physics
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 3
+task2.js:95 name : Gabriel
+task2.js:95 grade : 9
+task2.js:95 courses : Disel Mechanical,Basic designer,Virtual verifier
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 5
+task2.js:95 name : Raja
+task2.js:95 grade : 8
+task2.js:95 courses : Electronics,electromagnetic fields
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:186 NaN
+task2.js:92 Student Details:
+task2.js:95 studentID : 1
+task2.js:95 name : Kethra
+task2.js:95 grade : 9
+task2.js:95 courses : Engineering Graphics,Control Systems,Signal Processing,Java Programming
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 2
+task2.js:95 name : Packiam
+task2.js:95 grade : 8
+task2.js:95 courses : circuit Analysis,communication systems,enginnering physics
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 3
+task2.js:95 name : Gabriel
+task2.js:95 grade : 9
+task2.js:95 courses : Disel Mechanical,Basic designer,Virtual verifier
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
+task2.js:92 Student Details:
+task2.js:95 studentID : 5
+task2.js:95 name : Raja
+task2.js:95 grade : 8
+task2.js:95 courses : Electronics,electromagnetic fields
+task2.js:95 attanance : [object Object]
+task2.js:95 hobbies : [object Object]
